@@ -62,6 +62,9 @@ main {
   flex-direction: column;
   gap: 1em;
 }
+.header-image {
+  width: 50%;
+}
 h1 {
   font-size: 4rem;
   line-height: 1em;
